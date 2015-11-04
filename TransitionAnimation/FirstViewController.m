@@ -22,7 +22,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = @"First";
+    self.title = @"First ViewController";
     
     self.navigationController.delegate = self;
 }
